@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Raunit Singh</h1>
+<h1 align="center">Hi <img width="45px" src="https://camo.githubusercontent.com/52f613ba340da0234fa3754325112a6533af65a3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f33623338386665303364613237316432363734666166383565623763336663642f74656e6f722e676966" />
+, I'm Raunit Singh</h1>
 <h3 align="center">An Aspiring AI Devloper</h3>
+<div style="display: flex; justify-content: flex-end;text-align: right;">
+  <img alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" height="150" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunit-02&label=Profile%20views&color=0e75b6&style=flat" alt="raunit-02" /> </p>
 
@@ -7,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raunit-singh-3657241b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raunit-singh-3657241b7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raunit-singh-3657241b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raunit-singh-3657241b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/raunit_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raunit_02" height="30" width="40" /></a>
 </p>
 
@@ -19,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunit-02&show_icons=true&locale=en" alt="raunit-02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunit-02&" alt="raunit-02" /></p>
+
+
+<br>
+Currently Coding & Listening to:
