@@ -1,4 +1,4 @@
-<h1 align="center">Hi,
+<h1 align="center">Hi
 , I'm Raunit Singh</h1>
 <h3 align="left">An Aspiring AI Devloper</h3>
 <div style="display: flex; justify-content: flex-end;text-align: right;">
