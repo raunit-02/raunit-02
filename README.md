@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="45px" src="https://camo.githubusercontent.com/52f613ba340da0234fa3754325112a6533af65a3/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f33623338386665303364613237316432363734666166383565623763336663642f74656e6f722e676966" />
+<h1 align="center">Hi,
 , I'm Raunit Singh</h1>
 <h3 align="left">An Aspiring AI Devloper</h3>
 <div style="display: flex; justify-content: flex-end;text-align: right;">
